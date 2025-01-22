@@ -1,5 +1,18 @@
- - 👋 Hi, I’m @gkarthik333
-- 👀 I’m interested in data Analysis
+
+
+Hello I'm Karthik, an aspiring data analyst with a passion for extracting insights from data. 
+
+## Skills
+
+● Data Analysis & Visualization Tools: Excel, SQL, Power BI, Tableau 
+● Statistical Analysis: Descriptive Statistics, Inferential Statistics  
+● Programming Languages: Basic R, Basic Python 
+● Other Tools & Software: Microsoft Office, Google Sheets/Docs
+
+
+## Contact
+
++91 9900709415
 
 
 <!---
