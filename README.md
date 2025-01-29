@@ -1,6 +1,6 @@
 
 
-👋 Hi, I'm Karthik, an aspiring data analyst with a passion for extracting insights from data. 
+👋 Hi, I'm Karthik, an aspiring data analyst with a passion for extracting insights from data.
 
 ## Skills
 
