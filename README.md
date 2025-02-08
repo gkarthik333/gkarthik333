@@ -3,7 +3,7 @@
 
 An aspiring data analyst with a passion for extracting insights from data.<br><br>
 📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis<br><br>
-- <a href="https://github.com/gkarthik333/July-2024-Ola-Booking-Data-Analysis-and-Dashboard/blob/main/Ola%20Bookings-100000%2B-Raw%20data.xlsx">Resume</a>
+- <a href="https://github.com/gkarthik333/gkarthik333/blob/main/Karthik%20Gk%2C%20Data%20Analyst.pdf">Resume</a>
 
 
 ## Connect with me on :
