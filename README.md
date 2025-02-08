@@ -2,7 +2,7 @@
 <p align="Right"> <img src="https://komarev.com/ghpvc/?username=gkarthik333&label=Profile%20views&color=0e75b6&style=flat" alt="gkarthik333" /> </p>
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 <h2 align="center">A passionate about the Data Analyst</h2>
-
+<h3 align="center"><a href="https://github.com/gkarthik333/gkarthik333/blob/main/Karthik%20Gk%2C%20Data%20Analyst.pdf">Resume</a></h3>
 👨‍💻 All of my projects are available at <a href="https://github.com/gkarthik333?tab=repositories">My_repository</a><br><br>
 💬 Ask me about ***MySQL, Tableau, Excel, Power BI and Python***<br><br>
 
@@ -21,10 +21,7 @@
  ![Tableau](https://img.shields.io/badge/Tableau-%23ffffff.svg?style=for-the-badge&logo=Tableau&logoColor=black) 
  ![Power BI](https://img.shields.io/badge/Power_BI-%23F7931E.svg?style=for-the-badge&logo=Power_BI&logoColor=white) <br><br>
  
- <h3 align="center">
-   <p1></p1>[![Resume](https://img.shields.io/badge/Resume-%2344A833.svg?style=for-the-badge&logo=Resume&logoColor=white)](https://github.com/gkarthik333/gkarthik333/blob/main/Karthik%20Gk%2C%20Data%20Analyst.pdf)
- </p1>
- </h3>
+
 
 
 **<a href="https://github.com/gkarthik333/gkarthik333/blob/main/Karthik%20Gk%2C%20Data%20Analyst.pdf">Resume</a>**
