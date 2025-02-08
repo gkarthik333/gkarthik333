@@ -15,9 +15,9 @@
 +91 9900709415
 # 💫 About Me:
 
-✨ About Me in 30 secs✨<br><br>👀 I’m addicted to AI and ML and I love learning new skills<br><br> 🌾 I have keen interest in Agri-tech <br><br>🌱 I self-taught Python, SQL and Machine Learning <br><br>📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Machine Learning and Deep Learning <br><br>
+✨ About Me in 30 secs✨<br><br>👀 I’m addicted to AI and ML and I love learning new skills<br><br> 🌾 I have keen interest in Agri-tech <br><br>🌱 I self-taught Python, SQL and Machine Learning <br><br>📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis<br><br>
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/mausham-kumar-9525a8327/)
+Connect with me on [LinkedIn](www.linkedin.com/in/karthikgk-id333)
 
 
 # 💻 Tech Stack:
