@@ -21,7 +21,7 @@
  ![Tableau](https://img.shields.io/badge/Tableau-%23ffffff.svg?style=for-the-badge&logo=Tableau&logoColor=black) 
  ![Power BI](https://img.shields.io/badge/Power_BI-%23F7931E.svg?style=for-the-badge&logo=Power_BI&logoColor=white) <br><br>
  
- <p3 align="center">[![Resume](https://img.shields.io/badge/Resume-%2344A833.svg?style=for-the-badge&logo=Resume&logoColor=white)](https://github.com/gkarthik333/gkarthik333/blob/main/Karthik%20Gk%2C%20Data%20Analyst.pdf) ></p3>
+ <p3 align="center">[![Resume](https://img.shields.io/badge/Resume-%2344A833.svg?style=for-the-badge&logo=Resume&logoColor=white)](https://github.com/gkarthik333/gkarthik333/blob/main/Karthik%20Gk%2C%20Data%20Analyst.pdf) </p3>
 
 
 **<h4 align="center"><a href="https://github.com/gkarthik333/gkarthik333/blob/main/Karthik%20Gk%2C%20Data%20Analyst.pdf">Resume</a></h4>**
