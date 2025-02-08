@@ -5,11 +5,9 @@ An aspiring data analyst with a passion for extracting insights from data.<br><b
 📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis<br><br>
 
 ## Connect with me on 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikgk-id333/)
- 
-![image](https://github.com/user-attachments/assets/90828ec8-85a0-4fec-a06d-44bbe581f697)
-gkarthik647@gmail.com
- 91-9900709415
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikgk-id333/)<br><br>
+ Email ID : gkarthik647@gmail.com<br><br>
+ Contact number : 91-9900709415<br><br>
 
 ## Skills:
 ![MySQL](https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=MySQL&logoColor=white) 
