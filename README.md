@@ -11,7 +11,7 @@ An aspiring data analyst with a passion for extracting insights from data.<br><b
  Email ID : gkarthik647@gmail.com<br><br>
  Contact number : 91-9900709415<br><br>
 
-## Skills :
+## 🛠 Skills :
 ![MySQL](https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=MySQL&logoColor=white) 
 ![Excel](https://img.shields.io/badge/Excel-%2344A833.svg?style=for-the-badge&logo=Excel&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=ffdd54) <br><br>
@@ -20,7 +20,7 @@ An aspiring data analyst with a passion for extracting insights from data.<br><b
  ![Power BI](https://img.shields.io/badge/Power_BI-%23F7931E.svg?style=for-the-badge&logo=Power_BI&logoColor=white) <br><br>
  
  
-## Resume :
+
 
 
  
