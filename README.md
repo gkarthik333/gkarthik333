@@ -2,7 +2,7 @@
 <p align="Right"> <img src="https://komarev.com/ghpvc/?username=gkarthik333&label=Profile%20views&color=0e75b6&style=flat" alt="gkarthik333" /> </p>
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 <h2 align="center">A passionate about the Data Analyst</h2>
-
+ 
 👨‍💻 All of my projects are available at <a href="https://github.com/gkarthik333?tab=repositories">My_repository</a><br><br>
 💬 Ask me about ***MySQL, Tableau, Excel, Power BI and Python***<br><br>
 
