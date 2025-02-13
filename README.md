@@ -10,8 +10,8 @@
 - 💬 Ask me about ***MySQL, Tableau, Excel, Power BI and Python***<br><br>
 
 ## 📫 Get in touch with me at:
-- 📧 **gkarthik647@gmail.com<br><br>**
-- 📲 **91-9900709415<br><br>**
+- 📧 **gkarthik647@gmail.com**
+- 📲 **91-9900709415**
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikgk-id333/)
   [![HackerRank](https://img.shields.io/badge/HackerRank-%2300000f.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/gkarthik647)
   <br><br>
