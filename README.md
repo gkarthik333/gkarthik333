@@ -2,11 +2,14 @@
 <p align="Right"> <img src="https://komarev.com/ghpvc/?username=gkarthik333&label=Profile%20views&color=0e75b6&style=flat" alt="gkarthik333" /> </p>
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 <h2 align="center">A passionate about the Data Analyst</h2>
- 
-👨‍💻 All of my projects are available at <a href="https://github.com/gkarthik333?tab=repositories">My_repository</a><br><br>
-💬 Ask me about ***MySQL, Tableau, Excel, Power BI and Python***<br><br>
 
-## 📫 Connect with me on :
+- 🔭 Seeking entry-level opportunities / internships to develop and showcase my skills.
+- 🌱 Currently, I am working on data analysis projects and exploring new datasets.
+- 🎯 An expert in data analysis and visualization.
+- 👨‍💻 All of my projects are available at <a href="https://github.com/gkarthik333?tab=repositories">My_repository</a><br><br>
+- 💬 Ask me about ***MySQL, Tableau, Excel, Power BI and Python***<br><br>
+
+## 📫 Connect with me at:
  **Email ID : gkarthik647@gmail.com<br><br>**
  **Contact number : 91-9900709415<br><br>**
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikgk-id333/)
