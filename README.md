@@ -6,7 +6,7 @@
 - 🔭 Seeking entry-level opportunities / internships to develop and showcase my skills.
 - 🌱 Currently, I am working on data analysis projects and exploring new datasets.
 - 🎯 An expert in data analysis and visualization.
-- 👨‍💻 All of my projects are available at <a href="https://github.com/gkarthik333?tab=repositories">My_repository</a><br><br>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/gkarthik333?tab=repositories">My_repository</a>.
 - 💬 Ask me about ***MySQL, Tableau, Excel, Power BI and Python***<br><br>
 
 ## 📫 Connect with me at:
