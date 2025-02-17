@@ -26,7 +26,7 @@
 
 
 
-<h3 align="center"><a href="https://github.com/gkarthik333/gkarthik333/blob/main/Karthik%20Gk%2C%20Data%20Analyst.pdf">Resume</a></h3>
+<h3 align="center"><a href="https://github.com/gkarthik333/gkarthik333/blob/main/Karthik%20Gk%20-%20Data%20Analyst.pdf">Resume</a></h3>
 
 
  
