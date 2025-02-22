@@ -1,6 +1,6 @@
 
 <p align="Right"> <img src="https://komarev.com/ghpvc/?username=gkarthik333&label=Profile%20views&color=0e75b6&style=flat" alt="gkarthik333" /> </p>
-<h1 align="center">Hi 👋, I'm Karthik</h1> 
+<h1 align="center">Hi 👋, I'm Karthik</h1>  
 <h2 align="center">A passionate about the Data Analyst</h2>
 
 - 🔭 Seeking entry-level opportunities / internships to develop and showcase my skills.
