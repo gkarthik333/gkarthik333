@@ -11,7 +11,7 @@
 
 
 
-
+## 🖋️ About Me
 
 - 🔭 Seeking entry-level opportunities / internships to develop and showcase my skills.
 - 🌱 Currently, I am working on data analysis projects and exploring new datasets.
@@ -32,14 +32,23 @@
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=Python&logoColor=ffdd54)](https://www.python.org/https://www.python.org/)<br><br>
  [![Tableau](https://img.shields.io/badge/Tableau-%23ffffff.svg?style=for-the-badge&logo=Tableau&logoColor=black)](https://www.tableau.com/products/desktop)
  [![Power BI](https://img.shields.io/badge/Power_BI-%23F7931E.svg?style=for-the-badge&logo=Power_BI&logoColor=white)](https://www.microsoft.com/en-us/power-platform/products/power-bi)<br><br>
- 
 
 
 
 <h3 align="center"><a href="https://github.com/gkarthik333/gkarthik333/blob/main/Karthik%20Gk%20-%20Data%20Analyst.pdf">Resume</a></h3>
 
 
- 
+
+## 🗂️ Featured Projects
+
+| **Project Name**                                                                                      | **Tools Used**                     | **Domain**              |
+|-------------------------------------------------------------------------------------------------------|------------------------------------|-------------------------|
+| [**July-2024-Ola-Booking-Data-Analysis-and-Dashboard**](https://github.com/gkarthik333/July-2024-Ola-Booking-Data-Analysis-and-Dashboard)  | Excel , SQL Power BI                          | Travel Industry           |
+| [**Superstore Sales Analysis - US**](https://github.com/gkarthik333/Superstore-Dashboard) | Excel, SQL, Tableau                  | Sales and Finance       |
+| [**Financial Analysis Dashboard**](https://github.com/gkarthik333/Financial-Analysis)| Excel, SQL, Power BI     |  Finance             |
+| [**Sales-Excel-Dashboard**](https://github.com/gkarthik333/Sales-Excel-Dashboard) | Excel                | Sales        |
+
+
 ## 📊 GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gkarthik333&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=gkarthik333&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -47,9 +56,6 @@
 
 ----------------
 [![](https://visitcount.itsvg.in/api?id=gkarthik333&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
 
 
 
