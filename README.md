@@ -8,9 +8,6 @@
 </p>
 
 
-
-
-
 ## 🖋️ About Me
 
 - 🔭 Seeking entry-level opportunities / internships to develop and showcase my skills.
