@@ -1,5 +1,5 @@
 
-<p align="Right"> <img src="https://komarev.com/ghpvc/?username=gkarthik333&label=Profile%20views&color=0e75b6&style=flat" alt="gkarthik333" /> </p>
+<p align="Right"> <img src="https://komarev.com/ghpvc/?username=gkarthik333&label=Profile%20views&color=0e75b6&style=flat" alt="gkarthik333" /> </p>   
   
 <h1 align="center">Hi 👋, I'm Karthik</h1>       
 <h3 align="center">🚀 Data Analyst | Storyteller with Data | Passionate Learner</h3>  
