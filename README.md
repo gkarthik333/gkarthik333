@@ -21,9 +21,7 @@
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikgk-id333/)
   [![HackerRank](https://img.shields.io/badge/HackerRank-%2300000f.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/gkarthik647)
   <br><br>
-## 🌐 Socials:
-[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikgk-id333/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%2300000f.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/gkarthik647)
+
 ## 🛠 Skills :
 [![MySQL](https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 [![Excel](https://img.shields.io/badge/Excel-%2344A833.svg?style=for-the-badge&logo=Excel&logoColor=white)](https://www.microsoft.com/en-in/microsoft-365/excel)
@@ -36,7 +34,7 @@
 <h3 align="center"><a href="https://github.com/gkarthik333/gkarthik333/blob/main/Karthik%20Gk%20-%20Data%20Analyst.pdf">Resume</a></h3>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gkarthik333&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=gkarthik333&theme=normal&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🗂️ Featured Projects
 
