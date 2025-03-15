@@ -34,7 +34,7 @@
 <h3 align="center"><a href="https://github.com/gkarthik333/gkarthik333/blob/main/Karthik%20Gk%20-%20Data%20Analyst.pdf">Resume</a></h3>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gkarthik333&theme=light &no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=gkarthik333&theme=light&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🗂️ Featured Projects
 
