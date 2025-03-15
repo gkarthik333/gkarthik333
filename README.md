@@ -22,7 +22,7 @@
   [![HackerRank](https://img.shields.io/badge/HackerRank-%2300000f.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/gkarthik647)
   <br><br>
 ## 🌐 Socials:
-[![linkedin](https://img.shields.io/badge/LinkedIn-%0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikgk-id333/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikgk-id333/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2300000f.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/gkarthik647)
 ## 🛠 Skills :
 [![MySQL](https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
