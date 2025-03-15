@@ -22,8 +22,8 @@
   [![HackerRank](https://img.shields.io/badge/HackerRank-%2300000f.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/gkarthik647)
   <br><br>
 ## 🌐 Socials:
-[![HackerRank](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=HackerRank&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/karthikgk-id333) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gkarthik647@gmail.com) 
+[![linkedin](https://img.shields.io/badge/LinkedIn-%0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikgk-id333/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%2300000f.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/gkarthik647)
 ## 🛠 Skills :
 [![MySQL](https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 [![Excel](https://img.shields.io/badge/Excel-%2344A833.svg?style=for-the-badge&logo=Excel&logoColor=white)](https://www.microsoft.com/en-in/microsoft-365/excel)
