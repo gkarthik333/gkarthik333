@@ -1,7 +1,7 @@
 
 <p align="Right"> <img src="https://komarev.com/ghpvc/?username=gkarthik333&label=Profile%20views&color=0e75b6&style=flat" alt="gkarthik333" /> </p>   
   
-<h1 align="center">Hi 👋, I'm Karthik</h1>       
+<h1 align="center">Hi 👋, I'm Karthik</h1>           
 <h3 align="center">🚀 Data Analyst | Storyteller with Data | Passionate Learner</h3>  
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=3498db&center=true&width=600&lines=Identify+Problem;Gather+Data;Analyze+Data;Find+Solutions" alt="Typing Animation" />
