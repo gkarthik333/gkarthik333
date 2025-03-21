@@ -40,7 +40,7 @@
 
 | **Project Name**                                                                                      | **Tools Used**                     | **Domain**              |
 |-------------------------------------------------------------------------------------------------------|------------------------------------|-------------------------|
-| [**Sales-Excel-Dashboard**](https://github.com/gkarthik333/Sales-Excel-Dashboard) | Excel,Power BI,Mysql          |Travel   |
+| [**High-Cloud-Airline-Analysis**](https://github.com/gkarthik333/High-Cloud-Airline-Analysis) | Excel, SQL, Power BI     |Travel Industry      |
 | [**July-2024-Ola-Booking-Data-Analysis-and-Dashboard**](https://github.com/gkarthik333/July-2024-Ola-Booking-Data-Analysis-and-Dashboard)  | Excel , SQL Power BI                          | Travel Industry           |
 | [**Superstore Sales Analysis - US**](https://github.com/gkarthik333/Superstore-Dashboard) | Excel, SQL, Tableau                  | Sales and Finance       |
 | [**Financial Analysis Dashboard**](https://github.com/gkarthik333/Financial-Analysis)| Excel, SQL, Power BI     |  Finance             |
