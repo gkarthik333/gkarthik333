@@ -31,12 +31,12 @@ I'm a **Data** **Analyst**/**Business** **Analyst** **Enthusiast** <img src="htt
     <img src="https://github.com/gkarthik333/gkarthik333/blob/main/Mysql.png" title="MySQL" alt="MySQL" width="50" height="50"/>
     </a>
     &nbsp;
-   <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=MySQL&logoColor=white" title="MySQL" alt="MySQL" width="80" height="20"/>
+   <a href="https://www.microsoft.com/en/microsoft-365/excel?market=af">
+    <img src="https://github.com/gkarthik333/gkarthik333/blob/main/Excel.png" title="Excel" alt="Excel" width="50" height="50"/>
     </a>
     &nbsp;
-   <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=MySQL&logoColor=white" title="MySQL" alt="MySQL" width="80" height="20"/>
+   <a href="https://www.python.org/">
+    <img src="https://github.com/gkarthik333/gkarthik333/blob/main/Python.png" title="Python" alt="Python" width="50" height="50"/>
     </a>
     &nbsp;
    <a href="https://www.mysql.com/">
@@ -70,22 +70,6 @@ I'm a **Data** **Analyst**/**Business** **Analyst** **Enthusiast** <img src="htt
  <div>
 
 
-
-   <div>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL Server" alt="MSSQL Server" width="40" height="40"/>&nbsp;
-     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="40"height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-     <img src="https://freebiehive.com/wp-content/uploads/2022/04/Microsoft-Excel-Icon-PNG.jpg" title="kaggle" alt=" " width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40"height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40"height="40"/>&nbsp;
-     <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" title="Windows" alt="Windows" width="40"height="40"/>&nbsp;
-  
-   </div>
-   
 
 <h3 align="center"><a href="https://github.com/gkarthik333/gkarthik333/blob/main/Karthik%20Gk%20-%20Data%20Analyst.pdf">Resume</a></h3>   
 
