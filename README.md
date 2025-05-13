@@ -26,14 +26,48 @@ I'm a **Data** **Analyst**/**Business** **Analyst** **Enthusiast** <img src="htt
  [![Power BI](https://img.shields.io/badge/Power_BI-%23F7931E.svg?style=for-the-badge&logo=Power_BI&logoColor=white)](https://www.microsoft.com/en-us/power-platform/products/power-bi)<br><br>
 
 **:hammer_and_wrench: Languages and Tools :**
-<a href="https://www.microsoft.com/en-us/sql-server/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL Server" alt="MSSQL Server" width="40" height="40"/>
-</a>
-&nbsp;
-<a href="https://www.mysql.com/">
-  <img src="https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=MySQL&logoColor=white" title="MySQL" alt="MySQL" width="80" height="20"/>
-</a>
-
+ <div>
+    <a href="https://www.mysql.com/">
+    <img src="https://github.com/gkarthik333/gkarthik333/blob/main/Mysql.png" title="MySQL" alt="MySQL" width="80" height="20"/>
+    </a>
+    &nbsp;
+   <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=MySQL&logoColor=white" title="MySQL" alt="MySQL" width="80" height="20"/>
+    </a>
+    &nbsp;
+   <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=MySQL&logoColor=white" title="MySQL" alt="MySQL" width="80" height="20"/>
+    </a>
+    &nbsp;
+   <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=MySQL&logoColor=white" title="MySQL" alt="MySQL" width="80" height="20"/>
+    </a>
+    &nbsp;
+   <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=MySQL&logoColor=white" title="MySQL" alt="MySQL" width="80" height="20"/>
+    </a>
+    &nbsp;
+   <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=MySQL&logoColor=white" title="MySQL" alt="MySQL" width="80" height="20"/>
+    </a>
+    &nbsp;
+   <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=MySQL&logoColor=white" title="MySQL" alt="MySQL" width="80" height="20"/>
+    </a>
+    &nbsp;
+   <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=MySQL&logoColor=white" title="MySQL" alt="MySQL" width="80" height="20"/>
+    </a>
+    &nbsp;
+   <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=MySQL&logoColor=white" title="MySQL" alt="MySQL" width="80" height="20"/>
+    </a>
+    &nbsp;
+   <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=MySQL&logoColor=white" title="MySQL" alt="MySQL" width="80" height="20"/>
+    </a>
+    &nbsp;
+ <div>
 
 
 
