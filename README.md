@@ -21,6 +21,17 @@
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikgk-id333/)
   [![HackerRank](https://img.shields.io/badge/HackerRank-%2300000f.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/gkarthik647)
   <br><br>
+<div align="Left">
+   
+👨‍💻 **About** **Me**:
+
+I'm a **Data** **Analyst**/**Business** **Analyst** **Enthusiast** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a B.Sc. degree from Mangalore University, Karnataka(India).
+- :books: I'm currently engaged in **Data** **Analysis** **projects** to enhance my skillset and further explore the domains of data analysis, data visualization, and related technologies.
+- :briefcase: I'm passionate about becoming a Data Scientist and Data Analyst.
+- :globe_with_meridians: I'm always eager to collaborate on exciting data-related projects or discuss technology and data science/analyst topics.
+- :email: Feel free to reach out to me via email: gkarthik647@gmail.com
+- :right_anger_bubble: You can follow me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/karthikgk-id333/)[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikgk-id333/)
+  
 
 ## 🛠 Skills :
 [![MySQL](https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
