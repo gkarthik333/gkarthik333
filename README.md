@@ -7,21 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=3498db&center=true&width=600&lines=Identify+Problem;Gather+Data;Analyze+Data;Find+Solutions" alt="Typing Animation" />
 </p>
 
-## 🖋️ About Me  
-
-- 🔭 Seeking entry-level opportunities / internships to develop and showcase my skills.
-- 🌱 Currently, I am working on data analysis projects and exploring new datasets.
-- 🎯 An expert in data analysis and visualization.
-- 👨‍💻 All of my projects are available at <a href="https://github.com/gkarthik333?tab=repositories">My_repository</a>.
-- 💬 Ask me about ***MySQL, Tableau, Advanced Excel, Power BI and Python***<br><br>
-
-## 📫 Get in touch with me at:
-- 📧 **gkarthik647@gmail.com**
-- 📲 **+91-9900709415**<br><br>
-  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikgk-id333/)
-  [![HackerRank](https://img.shields.io/badge/HackerRank-%2300000f.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/gkarthik647)
-  <br><br>
-<div align="down">
    
 👨‍💻 **About** **Me**:
 
@@ -40,12 +25,24 @@ I'm a **Data** **Analyst**/**Business** **Analyst** **Enthusiast** <img src="htt
  [![Tableau](https://img.shields.io/badge/Tableau-%23ffffff.svg?style=for-the-badge&logo=Tableau&logoColor=black)](https://www.tableau.com/products/desktop)
  [![Power BI](https://img.shields.io/badge/Power_BI-%23F7931E.svg?style=for-the-badge&logo=Power_BI&logoColor=white)](https://www.microsoft.com/en-us/power-platform/products/power-bi)<br><br>
 
-
+**:hammer_and_wrench: Languages and Tools :**
+   <div>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL Server" alt="MSSQL Server" width="40" height="40"/>&nbsp (https://img.shields.io/badge/MySQL-3670A0?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/);
+     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="40"height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+     <img src="https://freebiehive.com/wp-content/uploads/2022/04/Microsoft-Excel-Icon-PNG.jpg" title="kaggle" alt=" " width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40"height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40"height="40"/>&nbsp;
+     <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" title="Windows" alt="Windows" width="40"height="40"/>&nbsp;
+  
+   </div>
+   
 
 <h3 align="center"><a href="https://github.com/gkarthik333/gkarthik333/blob/main/Karthik%20Gk%20-%20Data%20Analyst.pdf">Resume</a></h3>   
-
-## 🏆 GitHub Trophies
-  ![](https://github-profile-trophy.vercel.app/?username=gkarthik333&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🗂️ Featured Projects
 
@@ -60,7 +57,8 @@ I'm a **Data** **Analyst**/**Business** **Analyst** **Enthusiast** <img src="htt
 | [**Sales-Excel-Dashboard**](https://github.com/gkarthik333/Sales-Excel-Dashboard) | Excel                | Sales        |
 
 
-
+## 🏆 GitHub Trophies
+  ![](https://github-profile-trophy.vercel.app/?username=gkarthik333&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 ## 📊 GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gkarthik333&theme=dark&hide_border=false)<br/>
