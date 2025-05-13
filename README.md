@@ -28,7 +28,7 @@ I'm a **Data** **Analyst**/**Business** **Analyst** **Enthusiast** <img src="htt
 **:hammer_and_wrench: Languages and Tools :**
  <div>
     <a href="https://www.mysql.com/">
-    <img src="https://github.com/gkarthik333/gkarthik333/blob/main/Mysql.png" title="MySQL" alt="MySQL" width="80" height="20"/>
+    <img src="https://github.com/gkarthik333/gkarthik333/blob/main/Mysql.png" title="MySQL" alt="MySQL" width="50" height="50"/>
     </a>
     &nbsp;
    <a href="https://www.mysql.com/">
