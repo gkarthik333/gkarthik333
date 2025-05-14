@@ -38,7 +38,8 @@ I'm a **Data** **Analyst**/**Business** **Analyst** **Enthusiast** <img src="htt
 [<img src="https://github.com/gkarthik333/gkarthik333/blob/main/Mysql.png" title="MySQL" alt="MySQL" width="50" height="50"/>](https://www.mysql.com/)<br>
 [<img src="https://github.com/gkarthik333/gkarthik333/blob/main/Excel.png" title="Excel" alt="Excel" width="50" height="50"/>](https://www.microsoft.com/en/microsoft-365/excel?market=af)<br>
 [<img src="https://github.com/gkarthik333/gkarthik333/blob/main/Python.png" title="Python" alt="Python" width="50" height="50"/>](https://www.python.org/)
-   
+
+   [<img src="https://github.com/gkarthik333/gkarthik333/blob/main/Mysql.png" title="MySQL" alt="MySQL" width="50" height="50"/>](https://www.mysql.com/)   [<img src="https://github.com/gkarthik333/gkarthik333/blob/main/Excel.png" title="Excel" alt="Excel" width="50" height="50"/>](https://www.microsoft.com/en/microsoft-365/excel?market=af)   [<img src="https://github.com/gkarthik333/gkarthik333/blob/main/Python.png" title="Python" alt="Python" width="50" height="50"/>](https://www.python.org/)
 
 <h3 align="center"><a href="https://github.com/gkarthik333/gkarthik333/blob/main/Karthik%20Gk%20-%20Data%20Analyst.pdf">Resume</a></h3>   
 
