@@ -15,7 +15,7 @@ I'm a **Data** **Analyst**/**Business** **Analyst** **Enthusiast** <img src="htt
 - :briefcase: I'm passionate about becoming a Data Scientist and Data Analyst.
 - :globe_with_meridians: I'm always eager to collaborate on exciting data-related projects or discuss technology and data science/analyst topics.
 - :email: Feel free to reach out to me via email: gkarthik647@gmail.com
-- :right_anger_bubble: You can follow me on LinkedIn:  karthikgk-id333&nbsp;&nbsp; [<img src="https://github.com/gkarthik333/gkarthik333/blob/main/Linkedin.png" title="LinkedIn" alt="LinkedIn" width="20" height="20"/>](https://www.linkedin.com/in/karthikgk-id333/)
+- :right_anger_bubble: You can follow me on LinkedIn:  <a href="https://www.linkedin.com/in/karthikgk-id333/">🔗 Click here</a>
   
 
 ## 🛠 Skills :
