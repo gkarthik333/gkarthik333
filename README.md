@@ -8,7 +8,7 @@
 </p>
 
    
-## 👨‍💻 **About** **Me** *:*
+## 👨‍💻 **About** **Me :**
 
 I'm a **Data** **Analyst**/**Business** **Analyst** **Enthusiast** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a B.Sc. degree from Mangalore University, Karnataka(India).
 - :books: I'm currently engaged in **Data** **Analysis** **projects** to enhance my skillset and further explore the domains of data analysis, data visualization, and related technologies.
@@ -21,7 +21,7 @@ I'm a **Data** **Analyst**/**Business** **Analyst** **Enthusiast** <img src="htt
 ## 🛠 Skills :
 
 
-**:hammer_and_wrench: Languages and Tools :**
+## **:hammer_and_wrench: Languages and Tools :**
  
 
 [<img src="https://github.com/gkarthik333/gkarthik333/blob/main/Mysql.png" title="MySQL" alt="MySQL" width="65" height="65"/>](https://www.mysql.com/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/gkarthik333/gkarthik333/blob/main/python.png" title="Python" alt="Python" width="65" height="65"/>](https://www.python.org/)[<img src="https://github.com/gkarthik333/gkarthik333/blob/main/Pandas.png" title="Pandas" alt="Pandas" width="95" height="90"/>](https://pandas.pydata.org/)&nbsp;&nbsp;&nbsp;[<img src="https://github.com/gkarthik333/gkarthik333/blob/main/jupyter.png" title="Jupyter Notebook" alt="Jupyter Notebook" width="60" height="64"/>](https://jupyter.org/)[<img src="https://github.com/gkarthik333/gkarthik333/blob/main/Numpy.png" title="NumPy" alt="NumPy" width="120" height="65"/>](https://numpy.org/)&nbsp;&nbsp;&nbsp;[<img src="https://github.com/gkarthik333/gkarthik333/blob/main/VS%20Code.png" title="VS Code" alt="VS Code" width="50" height="60"/>](https://code.visualstudio.com/)<br>
