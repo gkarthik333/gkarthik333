@@ -14,8 +14,6 @@ I'm a **Data** **Analyst**/**Business** **Analyst** **Enthusiast** <img src="htt
 - :books: I'm currently engaged in **Data** **Analysis** **projects** to enhance my skillset and further explore the domains of data analysis, data visualization, and related technologies.
 - :briefcase: I'm passionate about becoming a Data Scientist and Data Analyst.
 - :globe_with_meridians: I'm always eager to collaborate on exciting data-related projects or discuss technology and data science/analyst topics.
-- :email: Feel free to reach out to me via email: gkarthik647@gmail.com
-- :right_anger_bubble: You can follow me on LinkedIn:  <a href="https://www.linkedin.com/in/karthikgk-id333/">🔗 Click here</a>
   
 ### 📫 Let's Connect!
 
@@ -38,8 +36,6 @@ I'm always open to discussing data-driven solutions, exciting projects, or just 
 
 [<img src="https://github.com/gkarthik333/gkarthik333/blob/main/Google%20sheets.png" title="Google Sheets" alt="Google Sheets" width="85" height="65"/>](https://workspace.google.com/intl/en_in/products/sheets/)&nbsp;&nbsp;&nbsp;[<img src="https://github.com/gkarthik333/gkarthik333/blob/main/Excel.png" title="Excel" alt="Excel" width="50" height="50"/>](https://www.microsoft.com/en/microsoft-365/excel?market=af)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/gkarthik333/gkarthik333/blob/main/Power%20BI.png" title="Power BI" alt="Power BI" width="50" height="50"/>](https://www.microsoft.com/en-us/power-platform/products/power-bi)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/gkarthik333/gkarthik333/blob/main/Tableau.png" title="Tableau" alt="Tableau" width="50" height="50"/>](https://www.tableau.com/)
 
-
-<h3 align="center"><a href="https://github.com/gkarthik333/gkarthik333/blob/main/Karthik%20Gk%20-%20Data%20Analyst.pdf">Resume</a></h3>   
 
 ## 🗂️ Featured Projects
 
