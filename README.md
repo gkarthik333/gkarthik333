@@ -17,9 +17,18 @@ I'm a **Data** **Analyst**/**Business** **Analyst** **Enthusiast** <img src="htt
 - :email: Feel free to reach out to me via email: gkarthik647@gmail.com
 - :right_anger_bubble: You can follow me on LinkedIn:  <a href="https://www.linkedin.com/in/karthikgk-id333/">🔗 Click here</a>
   
+### 📫 Let's Connect!
 
-## 🛠 Skills :
+I'm always open to discussing data-driven solutions, exciting projects, or just chatting about the latest in analytics.
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/[YourLinkedInProfile]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  </p>
 
 ## **:hammer_and_wrench: Languages and Tools :**
  
