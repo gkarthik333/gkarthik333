@@ -8,7 +8,7 @@
 </p>
 
    
-👨‍💻 **About** **Me**:
+## 👨‍💻 **About** **Me**:
 
 I'm a **Data** **Analyst**/**Business** **Analyst** **Enthusiast** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a B.Sc. degree from Mangalore University, Karnataka(India).
 - :books: I'm currently engaged in **Data** **Analysis** **projects** to enhance my skillset and further explore the domains of data analysis, data visualization, and related technologies.
