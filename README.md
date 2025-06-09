@@ -41,7 +41,7 @@ I'm always open to discussing data-driven solutions, exciting projects, or just 
 
 | **Project Name**                                                                                      | **Tools Used**                     | **Domain**              |
 |-------------------------------------------------------------------------------------------------------|------------------------------------|-------------------------|
-| [**Human Resource Analysis**](https://github.com/gkarthik333/Human_Resources_Dashboard) |  Tableau     | HR Analytic      |
+| [**Human Resource Analysis**](https://github.com/gkarthik333/Human_Resources_Dashboard) |  Tableau     | Strategic Workforce Planning & Talent Management     |
 | [**Call Centre Analysis**](https://github.com/gkarthik333/Call-Center-Dashboard/tree/main) |  Power BI, SQL     | Call centre      |
 | [**High Cloud Airline Analysis**](https://github.com/gkarthik333/High-Cloud-Airline-Analysis) | Excel, SQL, Power BI     |Travel Industry      |
 | [**July-2024-Ola-Booking-Data-Analysis-and-Dashboard**](https://github.com/gkarthik333/July-2024-Ola-Booking-Data-Analysis-and-Dashboard)  | Excel , SQL Power BI                          | Travel Industry           |
